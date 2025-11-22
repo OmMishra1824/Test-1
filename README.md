@@ -1,4 +1,4 @@
-Select *
+kkSelect *
 from
 vv n
 
